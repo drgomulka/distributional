@@ -67,6 +67,7 @@ reference:
     - dist_burr
     - dist_cauchy
     - dist_chisq
+    - dist_dirichlet
     - dist_exponential
     - dist_f
     - dist_gamma
