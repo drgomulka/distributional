@@ -1,11 +1,9 @@
-This submission resolves outstanding CRAN check issues for the package.
-
 ## Test environments
-* local ubuntu 20.04 install, R 4.1.2
-* ubuntu-latest (on GitHub actions), R-devel, R-release, R-oldrel
-* macOS (on GitHub actions), R-release
-* windows (on GitHub actions), R-release
-* win-builder, R-devel
+* local ubuntu 24.04 install, R 4.5.2
+* ubuntu-latest (on GitHub actions), R-devel, R-release, R-oldrel-1, R-oldrel-2, R-oldrel-3, R-oldrel-4
+* macOS-latest (on GitHub actions), R-release
+* windows-latest (on GitHub actions), R-release, R-oldrel-4
+* win-builder, R-devel, R-release, R-oldrelease
 
 ## R CMD check results
 
