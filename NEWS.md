@@ -3,6 +3,7 @@
 ## Improvements
 
 * Fixed default argument `sigma` for `dist_multivariate_normal()` (#118).
+* Improved formatting of support regions for limited multivariate support regions.
 
 # distributional 0.6.0
 
