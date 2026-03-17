@@ -10,6 +10,7 @@
 ### Probability distributions
 
 * Added `dist_dirichlet()` for the Dirichlet distribution (#146).
+* Added `dist_horseshoe()` for the Horseshoe distribution.
 
 # distributional 0.6.0
 
